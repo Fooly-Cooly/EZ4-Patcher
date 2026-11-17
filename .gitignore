@@ -40,6 +40,7 @@ Bak/
 *.log
 
 # Release & Package Archives
+releases/
 *.zip
 *.7z
 *.rar
