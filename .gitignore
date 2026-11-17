@@ -1,5 +1,46 @@
-/*.suo
-/*.sdf
-Debug
-bin
-obj
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+*.VC.db
+*.opendb
+
+# Build Outputs (Visual Studio / MSBuild)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Aa]pp[Dd]ata/
+*.ilk
+*.pdb
+*.exp
+
+# Backups & Temp files
+*.bak
+Bak/
+*.tmp
+*.log
+
+# Release & Package Archives
+*.zip
+*.7z
+*.rar
+*.tar.gz

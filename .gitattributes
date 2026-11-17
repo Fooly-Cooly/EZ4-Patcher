@@ -1,0 +1,15 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Binary files
+*.dll binary
+*.lib binary
+*.ico binary
+
+# Vendor files
+EZLib/* linguist-vendored
+
+# Build and configuration files
+*.sln text eol=crlf
+*.csproj text eol=crlf
+*.vcxproj text eol=crlf

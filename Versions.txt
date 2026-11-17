@@ -1,6 +1,12 @@
 EZPatcher by rambler@hiddenramblings.com
 
-For latest version check: https://github.com/HiddenRambler/EZ4Patcher
+For latest version check: https://github.com/Fooly-Cooly/EZ4-Patcher
+
+V1.1.1 (2026/11/17)
+	Modernized project to target .NET Framework 4.8 and modern MSVC toolsets.
+	Resolved Windows 10/11 runtime launch and resource initialization issues.
+	Packaged complete standalone binary release with EZBridge and EZ4Patch.dll included.
+	Updated documentation, build hygiene, and repository architecture.
 
 V1.1 RuntimeFix (2016/01/06)
 	Fixed runtime dependency failure of EZBridge.dll due to debug compilation
